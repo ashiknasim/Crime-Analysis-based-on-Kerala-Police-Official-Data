@@ -19,9 +19,9 @@ This repository contains a comprehensive analysis of crime data collected from t
 
 **Data Collection:**
 
-The dataset was sourced from the official Kerala Police website.
+-The dataset was sourced from the official Kerala Police website.
 
-Data from Mannanthala, Medical College, Kazhakootam, and Peroorkada police stations were compiled to form a representative cluster.
+-Data from Mannanthala, Medical College, Kazhakootam, and Peroorkada police stations were compiled to form a representative cluster.
 
 **Exploratory Data Analysis (EDA):**
 
@@ -29,7 +29,7 @@ Data from Mannanthala, Medical College, Kazhakootam, and Peroorkada police stati
 
 -Visualized data using matplotlib to identify trends and correlations.
 
-Key insights on crime patterns and hotspots were identified.
+-Key insights on crime patterns and hotspots were identified.
 
 **Dynamic Visualization:**
 
