@@ -59,19 +59,19 @@ A comprehensive PDF report summarizing findings and insights from the analysis.
 
 -Analysis of the types of crimes and their frequency in each station's jurisdiction.
 
-Getting Started
+## Getting Started
 
 To explore the project:
 
-Clone this repository:
+-Clone this repository:
 ```
 git clone https://github.com/<your-username>/crime-analysis-kerala.git
 
 ```
 
-Open ``` CRIME ANALYSIS.ipynb ``` using Jupyter Notebook to explore the EDA.
+-Open ``` CRIME ANALYSIS.ipynb ``` using Jupyter Notebook to explore the EDA.
 
-Open crime ```analysis.pbix``` in Power BI to interact with the dynamic visualizations.
+-Open crime ```analysis.pbix``` in Power BI to interact with the dynamic visualizations.
 
 ## Dataset
 
